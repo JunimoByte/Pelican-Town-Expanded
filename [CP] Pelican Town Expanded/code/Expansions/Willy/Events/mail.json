@@ -1,0 +1,26 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Mail",
+            "Entries": {
+                "{{ModId}}_WillyInkQuestLetter": "{{i18n: {{ModId}}_WillyInkQuestLetter}}",
+                "{{ModId}}_WillyMapleQuestLetter": "{{i18n: {{ModId}}_WillyMapleQuestLetter}}",
+                "{{ModId}}_ElliottCoffeeQuestLetter": "{{i18n: {{ModId}}_ElliottCoffeeQuestLetter}}",
+                "{{ModId}}_ElliottDaffodilQuestLetter": "{{i18n: {{ModId}}_ElliottDaffodilQuestLetter}}",
+                "{{ModId}}_WillyNautilusQuestLetter": "{{i18n: {{ModId}}_WillyNautilusQuestLetter}}",
+                "{{ModId}}_WillyCrabQuestLetter": "{{i18n: {{ModId}}_WillyCrabQuestLetter}}",
+                "{{ModId}}_ElliottPomegranateQuestLetter": "{{i18n: {{ModId}}_ElliottPomegranateQuestLetter}}",
+                "{{ModId}}_ElliottAmethystQuestLetter": "{{i18n: {{ModId}}_ElliottAmethystQuestLetter}}",
+                "{{ModId}}_WillyCrabMonsterQuestLetter": "{{i18n: {{ModId}}_WillyCrabMonsterQuestLetter}}",
+                "{{ModId}}_ElliottGhostMonsterQuestLetter": "{{i18n: {{ModId}}_ElliottGhostMonsterQuestLetter}}",
+                "{{ModId}}_WillySardineQuestLetter": "{{i18n: {{ModId}}_WillySardineQuestLetter}}",
+                "{{ModId}}_ElliottQuartzQuestLetter": "{{i18n: {{ModId}}_ElliottQuartzQuestLetter}}",
+                "{{ModId}}_ElliottLobsterQuestLetter": "{{i18n: {{ModId}}_ElliottLobsterQuestLetter}}",
+                "{{ModId}}_WillyBlobfishQuestLetter": "{{i18n: {{ModId}}_WillyBlobfishQuestLetter}}",
+                "{{ModId}}_ElliottDuckFeatherQuestLetter": "{{i18n: {{ModId}}_ElliottDuckFeatherQuestLetter}}",
+                "{{ModId}}_WillySturgeonQuestLetter": "{{i18n: {{ModId}}_WillySturgeonQuestLetter}}"
+            }
+        }
+    ]
+}

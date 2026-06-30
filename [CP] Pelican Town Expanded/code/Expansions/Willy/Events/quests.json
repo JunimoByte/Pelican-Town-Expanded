@@ -1,0 +1,28 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Quests",
+            "Entries": {
+                "{{ModId}}_WillyInkQuest": "{{i18n: {{ModId}}_WillyInkQuest}}",
+                "{{ModId}}_WillyMapleQuest": "{{i18n: {{ModId}}_WillyMapleQuest}}",
+                "{{ModId}}_ElliottCoffeeQuest": "{{i18n: {{ModId}}_ElliottCoffeeQuest}}",
+                "{{ModId}}_ElliottDaffodilQuest": "{{i18n: {{ModId}}_ElliottDaffodilQuest}}",
+                "{{ModId}}_WillyNautilusQuest": "{{i18n: {{ModId}}_WillyNautilusQuest}}",
+                "{{ModId}}_WillyCrabQuest": "{{i18n: {{ModId}}_WillyCrabQuest}}",
+                "{{ModId}}_ElliottPomegranateQuest": "{{i18n: {{ModId}}_ElliottPomegranateQuest}}",
+                "{{ModId}}_ElliottAmethystQuest": "{{i18n: {{ModId}}_ElliottAmethystQuest}}",
+                "{{ModId}}_ElliottPearlQuest": "{{i18n: {{ModId}}_ElliottPearlQuest}}",
+                "{{ModId}}_WillyCrabMonsterQuest": "{{i18n: {{ModId}}_WillyCrabMonsterQuest}}",
+                "{{ModId}}_ElliottGhostMonsterQuest": "{{i18n: {{ModId}}_ElliottGhostMonsterQuest}}",
+                "{{ModId}}_WillySardineQuest": "{{i18n: {{ModId}}_WillySardineQuest}}",
+                "{{ModId}}_ElliottQuartzQuest": "{{i18n: {{ModId}}_ElliottQuartzQuest}}",
+                "{{ModId}}_ElliottLobsterQuest": "{{i18n: {{ModId}}_ElliottLobsterQuest}}",
+                "{{ModId}}_WillyBlobfishQuest": "{{i18n: {{ModId}}_WillyBlobfishQuest}}",
+                "{{ModId}}_ElliottDuckFeatherQuest": "{{i18n: {{ModId}}_ElliottDuckFeatherQuest}}",
+                "{{ModId}}_WillySturgeonQuest": "{{i18n: {{ModId}}_WillySturgeonQuest}}",
+                "{{ModId}}_WillyOctopusQuest": "{{i18n: {{ModId}}_WillyOctopusQuest}}"
+            }
+        }
+    ]
+}

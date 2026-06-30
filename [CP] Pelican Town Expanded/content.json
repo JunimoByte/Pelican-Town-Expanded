@@ -1,0 +1,35 @@
+{
+    "Format": "2.8.0",
+    "Changes": [
+        {
+            "LogName": "Evelyn and George Events",
+            "Action": "Include",
+            "FromFile": "code/Expansions/Evelyn/Events/mail.json, code/Expansions/Evelyn/Events/quests.json, code/Expansions/Evelyn/Events/triggers.json, code/Expansions/Evelyn/Events/events.json"
+        },
+        {
+            "LogName": "Evelyn and George Dialogue",
+            "Action": "Include",
+            "FromFile": "code/Expansions/Evelyn/NPCs/Evelyn/dialogue.json, code/Expansions/Evelyn/NPCs/George/dialogue.json"
+        },
+        {
+            "LogName": "Penny and Pam Events",
+            "Action": "Include",
+            "FromFile": "code/Expansions/Penny/Events/mail.json, code/Expansions/Penny/Events/quests.json, code/Expansions/Penny/Events/triggers.json, code/Expansions/Penny/Events/events.json"
+        },
+        {
+            "LogName": "Penny and Pam Dialogue",
+            "Action": "Include",
+            "FromFile": "code/Expansions/Penny/NPCs/Penny/dialogue.json, code/Expansions/Penny/NPCs/Pam/dialogue.json"
+        },
+        {
+            "LogName": "Willy and Elliott Events",
+            "Action": "Include",
+            "FromFile": "code/Expansions/Willy/Events/mail.json, code/Expansions/Willy/Events/quests.json, code/Expansions/Willy/Events/triggers.json, code/Expansions/Willy/Events/events.json"
+        },
+        {
+            "LogName": "Willy and Elliott Dialogue",
+            "Action": "Include",
+            "FromFile": "code/Expansions/Willy/NPCs/Willy/dialogue.json, code/Expansions/Willy/NPCs/Elliott/dialogue.json"
+        }
+    ]
+}
