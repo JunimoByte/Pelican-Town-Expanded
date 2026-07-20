@@ -1,0 +1,25 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Quests",
+            "Entries": {
+                "{{ModId}}_LinusSalmonberryQuest": "{{i18n:{{ModId}}_LinusSalmonberryQuest}}",
+                "{{ModId}}_LinusFiddleheadQuest": "{{i18n:{{ModId}}_LinusFiddleheadQuest}}",
+                "{{ModId}}_LinusChanterelleQuest": "{{i18n:{{ModId}}_LinusChanterelleQuest}}",
+                "{{ModId}}_LinusHazelnutQuest": "{{i18n:{{ModId}}_LinusHazelnutQuest}}",
+                "{{ModId}}_LinusWinterRootQuest": "{{i18n:{{ModId}}_LinusWinterRootQuest}}",
+                "{{ModId}}_LinusHorseradishQuest": "{{i18n:{{ModId}}_LinusHorseradishQuest}}",
+                "{{ModId}}_LinusGrapeQuest": "{{i18n:{{ModId}}_LinusGrapeQuest}}",
+                "{{ModId}}_LinusBlackberryQuest": "{{i18n:{{ModId}}_LinusBlackberryQuest}}",
+                "{{ModId}}_LinusRedMushroomQuest": "{{i18n:{{ModId}}_LinusRedMushroomQuest}}",
+                "{{ModId}}_LinusSnowYamQuest": "{{i18n:{{ModId}}_LinusSnowYamQuest}}",
+                "{{ModId}}_LinusLeekQuest": "{{i18n:{{ModId}}_LinusLeekQuest}}",
+                "{{ModId}}_LinusCaveCarrotQuest": "{{i18n:{{ModId}}_LinusCaveCarrotQuest}}",
+                "{{ModId}}_LinusSpiceberryQuest": "{{i18n:{{ModId}}_LinusSpiceberryQuest}}",
+                "{{ModId}}_LinusPurpleMushroomQuest": "{{i18n:{{ModId}}_LinusPurpleMushroomQuest}}",
+                "{{ModId}}_LinusCrystalFruitQuest": "{{i18n:{{ModId}}_LinusCrystalFruitQuest}}"
+            }
+        }
+    ]
+}

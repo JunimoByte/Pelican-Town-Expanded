@@ -30,6 +30,16 @@
             "LogName": "Willy and Elliott Dialogue",
             "Action": "Include",
             "FromFile": "code/Expansions/Willy/NPCs/Willy/dialogue.json, code/Expansions/Willy/NPCs/Elliott/dialogue.json"
+        },
+        {
+            "LogName": "Linus Events",
+            "Action": "Include",
+            "FromFile": "code/Expansions/Linus/Events/mail.json, code/Expansions/Linus/Events/quests.json, code/Expansions/Linus/Events/triggers.json, code/Expansions/Linus/Events/events.json"
+        },
+        {
+            "LogName": "Linus Events",
+            "Action": "Include",
+            "FromFile": "code/Expansions/Linus/NPCs/Linus/dialogue.json"
         }
     ]
 }
